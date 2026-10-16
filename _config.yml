@@ -1,0 +1,7 @@
+theme: minima
+
+minima:
+  skin: dark
+  nav_pages:
+    - README.md
+    - md/test.md
