@@ -9,8 +9,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 Ce lien direct vers le pdf ne fonctionne qu'en activant github pages et en accédant à ce fichier à l'adresse https://phammar.github.io/files/
 
-- Lien vers le pdf: [pdf](pdf/The Scientist and Engineers Guide to Digital Signal Processing - Analog Devices.pdf "pdf file")
-https://phammar.github.io/files/README.md
+- Lien vers le pdf: [pdf](pdf/test.pdf "pdf file")
 
 - Lien vers md/test.md: [md/test.md](md/test.md)
 
